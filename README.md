@@ -1,6 +1,6 @@
 # Awesome-LLM-System-Papers
 
-This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM Lab](https://alchem.cs.purdue.edu/index.html). Welcome to create a pull requst or an issue if we have missed any interesting papers!
+This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM Lab](https://alchem.cs.purdue.edu/index.html). Welcome to create a pull request or an issue if we have missed any interesting papers!
 
 ## Algorithm-System Co-Design
 
@@ -60,6 +60,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 - FastMoE: A Fast Mixture-of-Expert Training System (arXiv'21) [link to paper](https://arxiv.org/pdf/2103.13262.pdf)
 - Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model (arXiv'22) [link to paper](https://arxiv.org/pdf/2201.11990.pdf)
 - Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (OSDI'22) [link to paper](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf)
+- AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving [link to paper](https://www.usenix.org/conference/osdi23/presentation/li-zhouhan)
 - LightSeq2: Accelerated Training for Transformer-Based Models on GPUs (SC'22) [link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10046070&casa_token=Y7UD4u5ej2AAAAAA:sxe5BGbxS2cG0l2vGg7f7L_RchYiovUzvTFgwLC5zRI96PtEzqGLt0TjOpLFvQW4jb6_y7J3R6U)
 - Pathways: Asynchronous Distributed Dataflow for ML (arXiv'22) [link to paper](https://arxiv.org/pdf/2203.12533.pdf)
 - FlashAttention: Fast and Memory-Eﬃcient Exact Attention with IO-Awareness (NeurIPS'22) [link to paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/67d57c32e20fd0a7a302cb81d36e40d5-Paper-Conference.pdf)
@@ -142,7 +143,7 @@ This is a list of (non-comprehensive) LLM system papers maintained by [ALCHEM La
 
 
 
-## Survyes
+## Surveys
 - A Survey of Large Language Models (arXiv'23) [link to paper](https://arxiv.org/abs/2303.18223)
 - Challenges and Applications of Large Language Models (arXiv'23)[link to paper](https://arxiv.org/abs/2307.10169)
 - FLM-101B: An Open LLM and How to Train It with $100K Budget (arXiv'23)[link to paper](https://arxiv.org/abs/2309.03852)
